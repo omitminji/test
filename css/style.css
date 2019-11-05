@@ -1,0 +1,23 @@
+body{
+	background-color:lightblue;
+}
+title{
+	font-size:40;
+	font-color:blue;
+}
+h1{
+	color:blue;
+	font-size:40px;
+
+}
+p{
+	font-size:25px;
+	background-color: navy-blue;
+}
+h2{
+	font-size:25px;
+	background-color:green;
+}
+.head2{
+	font color:green;
+}
